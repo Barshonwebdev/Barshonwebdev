@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQEVUWpUPbu3_w/profile-displaybackgroundimage-shrink_350_1400/0/1705564479603?e=1710979200&v=beta&t=Nv5TbNsm9k8gGBA-HXeXNkXyeyqgwGdRe8Hdqe7LaqE)
+
 
 ### Hi there 👋, I'm Barshon Chowdhury
 #### Web Developer
