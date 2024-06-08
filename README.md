@@ -40,3 +40,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barshonwebdev&" alt="barshonwebdev" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barshonwebdev&show_icons=true&locale=en&layout=compact" alt="barshonwebdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barshonwebdev&show_icons=true&locale=en" alt="barshonwebdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barshonwebdev&" alt="barshonwebdev" /></p>
+
+
