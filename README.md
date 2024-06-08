@@ -1,4 +1,4 @@
-![Header](./)
+![Header](./Black Minimal Business Personal Profile Linkedin Banner (1))
 
 ### Hi there 👋, I'm Barshon Chowdhury
 #### Web Developer
