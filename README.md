@@ -1,31 +1,41 @@
 ![Header](./header.png)
 
-### Hi there 👋, I'm Barshon Chowdhury
-#### Web Developer
+<h1 align="center">Hi 👋, I'm Barshon Chowdhury</h1>
+<h3 align="center">A Web Developer. Always up for solving an apparent problem. Currently learning MERN stack. Love web development , especially working with ReactJS.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barshonwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="barshonwebdev" /> </p>
 
-Always up for solving an apparent problem. Currently learning MERN stack. Love web development , especially working with ReactJS.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barshonwebdev" alt="barshonwebdev" /></a> </p>
 
-Skills:  REACT / JS / HTML / CSS / MERN / FIREBASE
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🔭 I’m currently working on Personal Projects 
-- 🌱 I’m currently learning JavaScript and MERN stack 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: barshonweb@gmail.com 
-- ⚡ Fun fact: I struggle, but I get it done 
+- 🌱 I’m currently learning **React, Express and Mongodb**
 
+- 👯 I’m looking to collaborate on **MERN stack Projects**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Barshonwebdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/barshon_drizzle/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/barshon-chowdhury-a5b0791a7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/barshon.chowdhury.5/)  
+- 👨‍💻 All of my projects are available at [https://barshon-portfolio.netlify.app](https://barshon-portfolio.netlify.app)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+- 💬 Ask me about **React**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Barshonwebdev)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **barshonweb@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barshonwebdev)](https://github.com/anuraghazra/github-readme-stats)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12qKRJND32sFN0HqWOlidETmXdhkxjwgw/view?usp=sharing](https://drive.google.com/file/d/12qKRJND32sFN0HqWOlidETmXdhkxjwgw/view?usp=sharing)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Barshonwebdev&show_icons=true)  
+- ⚡ Fun fact **I think I'm addicted to coffee**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Barshonwebdev)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/barshon chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barshon chowdhury" height="30" width="40" /></a>
+<a href="https://fb.com/barshon chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barshon chowdhury" height="30" width="40" /></a>
+<a href="https://instagram.com/barshon_drizzle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barshon_drizzle" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barshonwebdev&show_icons=true&locale=en&layout=compact" alt="barshonwebdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barshonwebdev&show_icons=true&locale=en" alt="barshonwebdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barshonwebdev&" alt="barshonwebdev" /></p>
 
